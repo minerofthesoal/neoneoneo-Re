@@ -1,0 +1,197 @@
+- \.connector
+- Accessories [1\.1\.0\-beta\.52\+1\.21\.1] by Blodhgarm, chyzman, Dr\.Zeal
+- Addons Lib [1\.21\.1\-1\.6\.1] by Samlegamer
+- AmbientSounds [6\.2\.1] by CreativeMD
+- AppleSkin [3\.0\.7\+mc1\.21] by squeek
+- Architectury [13\.0\.8] by shedaniel
+- Armor Visibility [21\.1\.1] by Trikzon
+- Ash API [21\.1\.1] by Trikzon
+- Auto MLG [0\.1] by sniffercraft34
+- Ayame PaperDoll [4\.4\.1\+1\.21\.1] by LucunJi\(Original author\)
+HappyRespawnanchor
+
+- Bad Packets [0\.8\.2] by deirn
+- BadOptimizations [2\.3\.1] by Thosea
+- BaguetteLib [1\.1\.2] by Leclowndu93150
+- Balm [21\.0\.54] by BlayTheNinth
+- Bedspreads [7\.0\.0\+1\.21\.1] by Illusive Soulworks
+- BetterDays [3\.3\.6\.0] by wendall911
+- Caelus API [7\.0\.1\+1\.21\.1] by Illusive Soulworks
+- Carry On [2\.2\.2] by Tschipp, PurpliciousCow
+- Cherished Worlds [10\.1\.1\+1\.21\.1] by Illusive Soulworks
+- Chloride [1\.7\.2] by SrRapero720
+- Chunky [1\.4\.23] by pop4959
+- ClientSort [2\.1\.0\+1\.21\.1] by NotRyken
+- Cloth Config v15 API [15\.0\.140] by shedaniel
+- Clumps [19\.0\.0\.1] by Jared
+- Collective [8\.10] by Rick South
+- Cool Rain [1\.1\.0] by Jaiz
+- CorgiLib [5\.0\.0\.7] by Corgi Taco
+- Corpse [1\.21\.1\-1\.1\.13] by Max Henkel
+- Corpse Curios Compatibility [3\.1\.2] by Leclowndu93150
+- Create [6\.0\.6] by simibubi
+- Create Crafts & Additions [1\.5\.5] by MRH0
+- Create Factory Logistics [1\.4\.7] by zznty
+- Create Fully Automated NeoForge [2\.0] by Noobers
+- Create Jetpack [5\.1\.0] by possible\_triangle
+- Create Liquid Fuel [2\.1\.1\-1\.21\.1] by Forsteri
+- Create Man of Many Planes [1\.1] by Fugimii, Baconzilla\_
+- Create More: Pipe Bombs in Packages [1\.0\.1] by Krei
+- Create Slice & Dice [4\.1\.2] by possible\_triangle
+- Create Unlimited [0\.7\.0] by rdh
+- Create: Blockchain [1\.0\.2] by Sewdohe, EeebsieKat, DJRaj
+- Create: Copycats\+ [3\.0\.2\+mc\.1\.21\.1\-neoforge] by Lysine, Bennyboy1695, Redcat\_XVIII
+- Create: Dragons Plus [1\.8\.1] by DragonsPlus
+- Create: Enchantment Industry [2\.2\.3] by DragonsPlus
+- Create: Escalated [1\.1\.0] by rbasamoyai
+- Create: Mobile Packages [0\.5\.5] by Tim Heidler
+- Create: Numismatics [1\.0\.18\+neoforge\-mc1\.21\.1] by IThundxr, Violet, Pink, Slimeist, Razziel
+- Create: Power Loader [2\.0\.3\-mc1\.21\.1] by Lysine
+- Create: Renewable Netherite [2\.0\.1] by 0xDED
+- Create: Renewable Notch Apples [1\.0\.1] by 0xDED
+- Create: The Factory Must Grow [1\.1\.0c] by DrMangoTea, Pepa, Luna
+- Create: Waystones Recipes [3\.0\.0\-NeoForge\-1\.21\.1] by Reggarf
+- CreateBetterFps [1\.1\.2] by MoePus
+- CreateCardboardThings [1\.21\.1\-1\.0\.2] by Chaolux
+- Create\_Better\_Villagers [1\.3\.0] by Reggarf aka Anoop Singh
+- CreativeCore [2\.13\.13] by CreativeMD
+- Cristel Lib [3\.0\.0] by Cristelknight
+- CullLeaves [4\.0\.1] by Motschen, TeamMidnightDust
+- Cupboard mod [2\.9] by Someaddon
+- Curios API [9\.5\.1\+1\.21\.1] by C4
+- Distant Horizons [2\.3\.6\-b]
+- Do a Barrel Roll [3\.7\.3] by enjarai
+- Drip Sounds [0\.5\.1] by PieKing1215
+- Dynamic Brightness [1\.3\.1] by Socolio
+- Dynamic Crosshair [9\.10] by Crendgrim
+- Dynamic FPS [3\.9\.5] by juliand665 & LostLuma
+- Dynamic Trees [1\.5\.0\-BETA07] by Ferreusveritas
+- Dynamic Trees Plus [1\.3\.0\-BETA02] by Ferreusveritas, Max Hyper, Harley O'Connor
+- Easy Elytra Takeoff [4\.5] by Rick South
+- Eating Animation [6\.0\.1] by Matyrobbrt
+- Elytra Slot [9\.0\.2\+1\.21\.1] by Illusive Soulworks
+- Elytra physics [2\.3] by ImJoshh
+- EntityCulling [1\.9\.1] by tr7zw
+- Essential Mod [4QgMxZar]
+- Explorer's Compass [1\.21\.1\-3\.0\.3\-neoforge] by ChaosTheDude
+- Exposure [1\.9\.11] by mortuusars
+- Exposure Polaroid [1\.1\.2] by mortuusars
+- Exposure: Expanded [1\.0\.1] by Sparkwave, JohnRamRu
+- FPSBoost [2\.0] by TheTCT
+- Farmer's Delight [1\.2\.9] by vectorwing
+- FastBoot [1\.3\.0] by dnlayu
+- Ferrite Core [7\.0\.2] by malte0811
+- FirstPerson [2\.5\.0] by tr7zw
+- Flerovium [1\.0\.15] by MoePus
+- Forge Config API Port [21\.1\.4] by Fuzs
+- Forgematica [0\.4\.1\+mc1\.21\.1] by TexTrue, CagayakeGirls
+- Forgified Fabric API [0\.115\.6\+2\.1\.4\+1\.21\.1] by Sinytra, FabricMC
+- Freecam [1\.3\.0\+mc1\.21] by hashalite,Matt Sturgeon
+- Fzzy Config [0\.7\.3\+1\.21\+neoforge] by fzzyhmstrs
+- GPUTape [1\.0\.2] by mr\_toad
+- GeckoLib 4 [4\.8\.2] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- GlitchCore [2\.1\.0\.0] by Adubbz
+- GroovyModLoader [6\.0\.2] by Luke Bemish, Matyrobbrt, and Paint\_Ninja
+- Grpahene [1\.6\.0] by CarbonMC, ZCRAFT
+- Highlighter [1\.1\.11] by Grend
+- Iceberg [1\.3\.2] by Grend
+- ImmediatelyFast [1\.6\.7\+1\.21\.1] by RK\_01
+- Immersive Aircraft [1\.4\.1\+1\.21\.1] by Luke100000
+- ImmersiveUI [0\.3\.3] by OctoStudios
+- InvMove [0\.9\.1] by PieKing1215
+- Inventory Essentials [21\.1\.7] by BlayTheNinth
+- Iris [1\.8\.12\-snapshot\+mc1\.21\.1\-local] by coderbot, IMS212
+- Iris Flywheel Compat [2\.0\.5] by Leon
+- ItemPhysic [1\.8\.9] by CreativeMD
+- Just Enough Items [19\.25\.0\.322] by mezz
+- Kotlin for Forge [pp2cY80Q]
+- LambDynamicLights [4\.8\.5\+1\.21\.1] by LambdAurora
+- Lithium [0\.15\.0\+mc1\.21\.1] by 2No2Name, JellySquid
+- Lithosphere [1\.7] by Jayzet
+- Lithostitched [1\.5\.0] by Apollo
+- M\.R\.U [1\.0\.19\+LTS\+1\.21\.1\+neoforge] by IMB11 \(mineblock11\)
+- MCrowners Flashlight [1\.0] by MCrowners
+- MaFgLib [0\.4\.1\+mc1\.21\.1] by TexTrue, CagayakeGirls
+- Macaw's \- Oh the Biomes You'll Go [1\.21\.1\-1\.2\.1] by Samlegamer
+- Macaw's Bridges [3\.1\.1] by Sketch Macaw & Peachy Macaw
+- Macaw's Doors [1\.1\.2] by Sketch Macaw & Sketch Peachy
+- Macaw's Furniture [3\.3\.0] by Sketch Macaw
+- Macaw's Paths and Pavings [1\.1\.1] by Sketch Macaw & Peachy Macaw
+- Macaw's Roofs [2\.3\.2] by Sketch Macaw & Sketch Peachy
+- Macaw's Stairs and Balconies [1\.0\.1] by Sketch Macaw & Sketch Peachy
+- Macaw's Windows [2\.4\.1] by Sketch Macaw & Peachy Macaw
+- Man of Many Planes [0\.2\.1\+1\.21\.1] by Luke100000, Man of Many Snails
+- MidnightLib [1\.7\.5] by TeamMidnightDust, Motschen
+- ModernFix [5\.24\.3\+mc1\.21\.1] by embeddedt
+- Mods Optimizer [4\.1\.0] by Markus Bordihn
+- More Sounds [0\.1\.1\-beta] by DVOA
+- Mouse Tweaks [2\.26\.1] by Ivan Molodetskikh \(YaLTeR\)
+- Nature's Compass [1\.21\.1\-3\.0\.2\-neoforge] by ChaosTheDude
+- NoRealmsButton [2\.0\.2] by Tigercrl
+- Noisium [2\.3\.0\+mc1\.21\-1\.21\.1] by Steveplays28
+- NotEnoughAnimations [1\.10\.4\.1] by tr7zw
+- OctoLib [0\.6\.0\.4] by OctoStudios
+- Oh The Biomes We've Gone [2\.4\.8] by Joseph T\. McQuigg \(JT122406\), AOCAWOL, YaBoiChips, Corgi Taco
+- Oh The Trees You'll Grow [5\.1\.2] by Corgi Taco
+- Particle Core [0\.2\.6\+1\.21\+neoforge] by fzzyhmstrs
+- Particular [1\.1\.6]
+- Pick Up Notifier [21\.1\.1] by Fuzs
+- Pretty Rain [1\.1\.4] by Leclowndu93150, PigCart
+- Puzzles Lib [21\.1\.38] by Fuzs
+- Redirected [1\.0\.0] by Toni
+- RoadWeaver [1\.0\.2] by Countered
+- RuOK Mod [1\.7\.2fix] by MCTeamPotato
+Awei
+
+- Scholar [1\.1\.8] by mortuusars
+- Selfexpression [2\.22] by Redynine
+- Selfexpression: Slim [1\.5] by Redynine
+- Serene Seasons [10\.1\.0\.3] by Adubbz, Forstride
+- Serene Seasons Plus [4\.0\.6] by Gabou
+- Simple Voice Chat [1\.21\.1\-2\.6\.6] by Max Henkel
+- Simply Create Model｜简单动力 [1\.0\.1] by YaTangDragon, MangoJellyPudding
+- Sinytra Connector [7046486]
+- Smoothchunk mod [4\.1] by Someaddon
+- Sodium [0\.6\.13\+mc1\.21\.1] by JellySquid \(jellysquid3\), IMS212
+- Sound Physics Remastered [1\.21\.1\-1\.5\.1] by Sonic Ether, vlad2305m, Max Henkel
+- Sounds [2\.4\.15\+lts\+1\.21\.1\+neoforge] by IMB11
+- Storage Drawers [13\.11\.4] by Texelsaur
+- Substrate [4\.0] by VesMaybeVesper
+- Sword Blocking [2\.1\.0] by Motschen, TeamMidnightDust, lowercasebtw
+- Tectonic [3\.0\.15] by Apollo
+- TerraBlender [4\.1\.0\.8] by Adubbz
+- Terralith [2\.5\.8] by Stardust Labs
+- ToadLib [1\.3\.2] by Mr\.Toad
+- Towns and Towers [1\.13\.7] by Kubek and Biban\_Auriu, Cristelknight999
+- Trajectory Estimation [1\.0\.3\.1] by Sonnenlicht
+- Traveler's Backpack [10\.1\.26] by Tiviacz1337
+- Traveler's Compass [4\.0\.01] by Nine
+- True Darkness [1\.2\.1] by Grondag, Qsmium
+- Tweakerge [0\.4\.0\+mc1\.21\.1] by TexTrue, CagayakeGirls
+- TxniLib [1\.0\.24] by Toni
+- Underground Villages Mod [4\.0\.3] by Mrbysco, ShyNieke
+- Untitled Duck Mod [1\.2\.0] by Suel\_ki, Okabintaro, ArtistMonster24
+- Vanillin [1\.1\.3] by Jozufozu, PepperCode1
+- VanitySlots [2\.0\.1] by NyakoFox
+- Via Romana [2\.0\.1\+1\.21\.1\-neoforge] by Rasa Novum
+- Visuality: Reforged [2\.1\.0] by LimonBlaze
+- Wakes [1\.0\.2]
+- Waves [1\.6] by Verph
+- WaveyCapes [1\.6\.2] by tr7zw
+- Waystones [21\.1\.23] by BlayTheNinth
+- Weavers Paradise [1\.2\.2] by Vortianski
+- Wildfire's Female Gender Mod [3\.2\.2] by WildfireRomeo
+- Wooled Boots [1\.8] by Jackbusters
+- WorldEdit [7\.3\.8\+6939\-7d32b45] by EngineHub
+- Xaero Train Map [1\.0\.0] by 1Foxy2
+- Xaero's Minimap [25\.2\.10] by xaero96
+- Xaero's World Map [1\.39\.12] by xaero96
+- XaeroPlus [2\.28\.8] by rfresh2
+- YetAnotherConfigLib [3\.8\.0\+1\.21\.1\-neoforge] by isXander
+- connector\-2\.0\.0\-beta\.10\+1\.21\.1\-full\.jar\.duplicate
+- elytraswapperplus [1\.0\.0] by eirmax, st0x0ef
+- fastasyncworldsave mod [2\.6] by Someaddon
+- oωo [0\.12\.15\.5\-beta\.1\+1\.21] by glisco, Blodhgarm, BasiqueEvangelist, Noaaan
+- tctcore [2\.0] by The TCT
+- underground\_village [1\.5\.6] by Reggarf
+- wthit [12\.7\.0] by deirn, TehNut, ProfMobius
