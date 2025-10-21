@@ -1,0 +1,1362 @@
+[
+    {
+        "name": ".connector"
+    },
+    {
+        "authors": [
+            "Blodhgarm, chyzman, Dr.Zeal"
+        ],
+        "name": "Accessories",
+        "version": "1.1.0-beta.52+1.21.1"
+    },
+    {
+        "authors": [
+            "Samlegamer"
+        ],
+        "name": "Addons Lib",
+        "version": "1.21.1-1.6.1"
+    },
+    {
+        "authors": [
+            "CreativeMD"
+        ],
+        "name": "AmbientSounds",
+        "version": "6.2.1"
+    },
+    {
+        "authors": [
+            "squeek"
+        ],
+        "name": "AppleSkin",
+        "version": "3.0.7+mc1.21"
+    },
+    {
+        "authors": [
+            "shedaniel"
+        ],
+        "name": "Architectury",
+        "version": "13.0.8"
+    },
+    {
+        "authors": [
+            "Trikzon"
+        ],
+        "name": "Armor Visibility",
+        "version": "21.1.1"
+    },
+    {
+        "authors": [
+            "Trikzon"
+        ],
+        "name": "Ash API",
+        "version": "21.1.1"
+    },
+    {
+        "authors": [
+            "sniffercraft34"
+        ],
+        "name": "Auto MLG",
+        "version": "0.1"
+    },
+    {
+        "authors": [
+            "LucunJi(Original author)\nHappyRespawnanchor\n"
+        ],
+        "name": "Ayame PaperDoll",
+        "version": "4.4.1+1.21.1"
+    },
+    {
+        "authors": [
+            "deirn"
+        ],
+        "name": "Bad Packets",
+        "version": "0.8.2"
+    },
+    {
+        "authors": [
+            "Thosea"
+        ],
+        "name": "BadOptimizations",
+        "version": "2.3.1"
+    },
+    {
+        "authors": [
+            "Leclowndu93150"
+        ],
+        "name": "BaguetteLib",
+        "version": "1.1.2"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "name": "Balm",
+        "version": "21.0.54"
+    },
+    {
+        "authors": [
+            "Illusive Soulworks"
+        ],
+        "name": "Bedspreads",
+        "version": "7.0.0+1.21.1"
+    },
+    {
+        "authors": [
+            "wendall911"
+        ],
+        "name": "BetterDays",
+        "version": "3.3.6.0"
+    },
+    {
+        "authors": [
+            "Illusive Soulworks"
+        ],
+        "name": "Caelus API",
+        "version": "7.0.1+1.21.1"
+    },
+    {
+        "authors": [
+            "Tschipp, PurpliciousCow"
+        ],
+        "name": "Carry On",
+        "version": "2.2.2"
+    },
+    {
+        "authors": [
+            "Illusive Soulworks"
+        ],
+        "name": "Cherished Worlds",
+        "version": "10.1.1+1.21.1"
+    },
+    {
+        "authors": [
+            "SrRapero720"
+        ],
+        "name": "Chloride",
+        "version": "1.7.2"
+    },
+    {
+        "authors": [
+            "pop4959"
+        ],
+        "name": "Chunky",
+        "version": "1.4.23"
+    },
+    {
+        "authors": [
+            "NotRyken"
+        ],
+        "name": "ClientSort",
+        "version": "2.1.0+1.21.1"
+    },
+    {
+        "authors": [
+            "shedaniel"
+        ],
+        "name": "Cloth Config v15 API",
+        "version": "15.0.140"
+    },
+    {
+        "authors": [
+            "Jared"
+        ],
+        "name": "Clumps",
+        "version": "19.0.0.1"
+    },
+    {
+        "authors": [
+            "Rick South"
+        ],
+        "name": "Collective",
+        "version": "8.11"
+    },
+    {
+        "authors": [
+            "Corgi Taco"
+        ],
+        "name": "CorgiLib",
+        "version": "5.0.0.7"
+    },
+    {
+        "authors": [
+            "Max Henkel"
+        ],
+        "name": "Corpse",
+        "version": "1.21.1-1.1.13"
+    },
+    {
+        "authors": [
+            "Leclowndu93150"
+        ],
+        "name": "Corpse Curios Compatibility",
+        "version": "3.1.2"
+    },
+    {
+        "authors": [
+            "HypherionSA, Zenith"
+        ],
+        "name": "CraterLib",
+        "version": "2.1.5"
+    },
+    {
+        "authors": [
+            "simibubi"
+        ],
+        "name": "Create",
+        "version": "6.0.6"
+    },
+    {
+        "authors": [
+            "MRH0"
+        ],
+        "name": "Create Crafts & Additions",
+        "version": "1.5.5"
+    },
+    {
+        "authors": [
+            "zznty"
+        ],
+        "name": "Create Factory Logistics",
+        "version": "1.4.7"
+    },
+    {
+        "authors": [
+            "Noobers"
+        ],
+        "name": "Create Fully Automated NeoForge",
+        "version": "2.0"
+    },
+    {
+        "authors": [
+            "possible_triangle"
+        ],
+        "name": "Create Jetpack",
+        "version": "5.1.0"
+    },
+    {
+        "authors": [
+            "Forsteri"
+        ],
+        "name": "Create Liquid Fuel",
+        "version": "2.1.1-1.21.1"
+    },
+    {
+        "authors": [
+            "Fugimii, Baconzilla_"
+        ],
+        "name": "Create Man of Many Planes",
+        "version": "1.1"
+    },
+    {
+        "authors": [
+            "Krei"
+        ],
+        "name": "Create More: Pipe Bombs in Packages",
+        "version": "1.0.1"
+    },
+    {
+        "authors": [
+            "possible_triangle"
+        ],
+        "name": "Create Slice & Dice",
+        "version": "4.1.2"
+    },
+    {
+        "authors": [
+            "rdh"
+        ],
+        "name": "Create Unlimited",
+        "version": "0.7.0"
+    },
+    {
+        "authors": [
+            "Sewdohe, EeebsieKat, DJRaj"
+        ],
+        "name": "Create: Blockchain",
+        "version": "1.0.2"
+    },
+    {
+        "authors": [
+            "Lysine, Bennyboy1695, Redcat_XVIII"
+        ],
+        "name": "Create: Copycats+",
+        "version": "3.0.2+mc.1.21.1-neoforge"
+    },
+    {
+        "authors": [
+            "DragonsPlus"
+        ],
+        "name": "Create: Dragons Plus",
+        "version": "1.8.1"
+    },
+    {
+        "authors": [
+            "DragonsPlus"
+        ],
+        "name": "Create: Enchantment Industry",
+        "version": "2.2.3"
+    },
+    {
+        "authors": [
+            "rbasamoyai"
+        ],
+        "name": "Create: Escalated",
+        "version": "1.1.0"
+    },
+    {
+        "authors": [
+            "Tim Heidler"
+        ],
+        "name": "Create: Mobile Packages",
+        "version": "0.5.5"
+    },
+    {
+        "authors": [
+            "IThundxr, Violet, Pink, Slimeist, Razziel"
+        ],
+        "name": "Create: Numismatics",
+        "version": "1.0.18+neoforge-mc1.21.1"
+    },
+    {
+        "authors": [
+            "Lysine"
+        ],
+        "name": "Create: Power Loader",
+        "version": "2.0.3-mc1.21.1"
+    },
+    {
+        "authors": [
+            "0xDED"
+        ],
+        "name": "Create: Renewable Netherite",
+        "version": "2.0.1"
+    },
+    {
+        "authors": [
+            "0xDED"
+        ],
+        "name": "Create: Renewable Notch Apples",
+        "version": "1.0.1"
+    },
+    {
+        "authors": [
+            "DrMangoTea, Pepa, Luna"
+        ],
+        "name": "Create: The Factory Must Grow",
+        "version": "1.1.0c"
+    },
+    {
+        "authors": [
+            "robinfrt"
+        ],
+        "name": "Create: Ultimate Factory",
+        "version": "1.9.0"
+    },
+    {
+        "authors": [
+            "Reggarf"
+        ],
+        "name": "Create: Waystones Recipes",
+        "version": "3.0.0-NeoForge-1.21.1"
+    },
+    {
+        "authors": [
+            "MoePus"
+        ],
+        "name": "CreateBetterFps",
+        "version": "1.1.2"
+    },
+    {
+        "authors": [
+            "Chaolux"
+        ],
+        "name": "CreateCardboardThings",
+        "version": "1.21.1-1.0.2"
+    },
+    {
+        "authors": [
+            "Reggarf aka Anoop Singh"
+        ],
+        "name": "Create_Better_Villagers",
+        "version": "1.3.0"
+    },
+    {
+        "authors": [
+            "CreativeMD"
+        ],
+        "name": "CreativeCore",
+        "version": "2.13.13"
+    },
+    {
+        "authors": [
+            "Cristelknight"
+        ],
+        "name": "Cristel Lib",
+        "version": "3.0.0"
+    },
+    {
+        "authors": [
+            "Motschen, TeamMidnightDust"
+        ],
+        "name": "CullLeaves",
+        "version": "4.0.1"
+    },
+    {
+        "authors": [
+            "Someaddon"
+        ],
+        "name": "Cupboard mod",
+        "version": "2.9"
+    },
+    {
+        "authors": [
+            "C4"
+        ],
+        "name": "Curios API",
+        "version": "9.5.1+1.21.1"
+    },
+    {
+        "name": "Distant Horizons",
+        "version": "2.3.6-b"
+    },
+    {
+        "authors": [
+            "enjarai"
+        ],
+        "name": "Do a Barrel Roll",
+        "version": "3.7.3"
+    },
+    {
+        "authors": [
+            "PieKing1215"
+        ],
+        "name": "Drip Sounds",
+        "version": "0.5.1"
+    },
+    {
+        "authors": [
+            "Socolio"
+        ],
+        "name": "Dynamic Brightness",
+        "version": "1.3.1"
+    },
+    {
+        "authors": [
+            "Crendgrim"
+        ],
+        "name": "Dynamic Crosshair",
+        "version": "9.10"
+    },
+    {
+        "authors": [
+            "juliand665 & LostLuma"
+        ],
+        "name": "Dynamic FPS",
+        "version": "3.9.5"
+    },
+    {
+        "authors": [
+            "Ferreusveritas"
+        ],
+        "name": "Dynamic Trees",
+        "version": "1.5.0-BETA07"
+    },
+    {
+        "authors": [
+            "Ferreusveritas, Max Hyper, Harley O'Connor"
+        ],
+        "name": "Dynamic Trees Plus",
+        "version": "1.3.0-BETA02"
+    },
+    {
+        "authors": [
+            "Rick South"
+        ],
+        "name": "Easy Elytra Takeoff",
+        "version": "4.5"
+    },
+    {
+        "authors": [
+            "Matyrobbrt"
+        ],
+        "name": "Eating Animation",
+        "version": "6.0.1"
+    },
+    {
+        "authors": [
+            "Illusive Soulworks"
+        ],
+        "name": "Elytra Slot",
+        "version": "9.0.2+1.21.1"
+    },
+    {
+        "authors": [
+            "ImJoshh"
+        ],
+        "name": "Elytra physics",
+        "version": "2.3"
+    },
+    {
+        "authors": [
+            "tr7zw"
+        ],
+        "name": "EntityCulling",
+        "version": "1.9.2"
+    },
+    {
+        "name": "Essential Mod",
+        "version": "4QgMxZar"
+    },
+    {
+        "authors": [
+            "ChaosTheDude"
+        ],
+        "name": "Explorer's Compass",
+        "version": "1.21.1-3.0.3-neoforge"
+    },
+    {
+        "authors": [
+            "mortuusars"
+        ],
+        "name": "Exposure",
+        "version": "1.9.11"
+    },
+    {
+        "authors": [
+            "mortuusars"
+        ],
+        "name": "Exposure Polaroid",
+        "version": "1.1.2"
+    },
+    {
+        "authors": [
+            "Sparkwave, JohnRamRu"
+        ],
+        "name": "Exposure: Expanded",
+        "version": "1.0.1"
+    },
+    {
+        "authors": [
+            "TheTCT"
+        ],
+        "name": "FPSBoost",
+        "version": "2.0"
+    },
+    {
+        "authors": [
+            "vectorwing"
+        ],
+        "name": "Farmer's Delight",
+        "version": "1.2.9"
+    },
+    {
+        "authors": [
+            "dnlayu"
+        ],
+        "name": "FastBoot",
+        "version": "1.3.0"
+    },
+    {
+        "authors": [
+            "malte0811"
+        ],
+        "name": "Ferrite Core",
+        "version": "7.0.2"
+    },
+    {
+        "authors": [
+            "tr7zw"
+        ],
+        "name": "FirstPerson",
+        "version": "2.5.0"
+    },
+    {
+        "authors": [
+            "MoePus"
+        ],
+        "name": "Flerovium",
+        "version": "1.0.15"
+    },
+    {
+        "authors": [
+            "Fuzs"
+        ],
+        "name": "Forge Config API Port",
+        "version": "21.1.4"
+    },
+    {
+        "authors": [
+            "TexTrue, CagayakeGirls"
+        ],
+        "name": "Forgematica",
+        "version": "0.4.1+mc1.21.1"
+    },
+    {
+        "authors": [
+            "Sinytra, FabricMC"
+        ],
+        "name": "Forgified Fabric API",
+        "version": "0.115.6+2.1.4+1.21.1"
+    },
+    {
+        "authors": [
+            "hashalite,Matt Sturgeon"
+        ],
+        "name": "Freecam",
+        "version": "1.3.0+mc1.21"
+    },
+    {
+        "authors": [
+            "fzzyhmstrs"
+        ],
+        "name": "Fzzy Config",
+        "version": "0.7.3+1.21+neoforge"
+    },
+    {
+        "authors": [
+            "mr_toad"
+        ],
+        "name": "GPUTape",
+        "version": "1.0.2"
+    },
+    {
+        "authors": [
+            "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
+        ],
+        "name": "GeckoLib 4",
+        "version": "4.8.2"
+    },
+    {
+        "authors": [
+            "Adubbz"
+        ],
+        "name": "GlitchCore",
+        "version": "2.1.0.0"
+    },
+    {
+        "authors": [
+            "Luke Bemish, Matyrobbrt, and Paint_Ninja"
+        ],
+        "name": "GroovyModLoader",
+        "version": "6.0.2"
+    },
+    {
+        "authors": [
+            "CarbonMC, ZCRAFT"
+        ],
+        "name": "Grpahene",
+        "version": "1.6.0"
+    },
+    {
+        "authors": [
+            "Grend"
+        ],
+        "name": "Highlighter",
+        "version": "1.1.11"
+    },
+    {
+        "authors": [
+            "Grend"
+        ],
+        "name": "Iceberg",
+        "version": "1.3.2"
+    },
+    {
+        "authors": [
+            "RK_01"
+        ],
+        "name": "ImmediatelyFast",
+        "version": "1.6.7+1.21.1"
+    },
+    {
+        "authors": [
+            "Luke100000"
+        ],
+        "name": "Immersive Aircraft",
+        "version": "1.4.1+1.21.1"
+    },
+    {
+        "authors": [
+            "Straywave"
+        ],
+        "name": "Immersive Snow",
+        "version": "1.4.0"
+    },
+    {
+        "authors": [
+            "OctoStudios"
+        ],
+        "name": "ImmersiveUI",
+        "version": "0.3.3"
+    },
+    {
+        "authors": [
+            "PieKing1215"
+        ],
+        "name": "InvMove",
+        "version": "0.9.1"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "name": "Inventory Essentials",
+        "version": "21.1.7"
+    },
+    {
+        "authors": [
+            "coderbot, IMS212"
+        ],
+        "name": "Iris",
+        "version": "1.8.12-snapshot+mc1.21.1-local"
+    },
+    {
+        "authors": [
+            "Leon"
+        ],
+        "name": "Iris Flywheel Compat",
+        "version": "2.0.5"
+    },
+    {
+        "authors": [
+            "CreativeMD"
+        ],
+        "name": "ItemPhysic",
+        "version": "1.8.9"
+    },
+    {
+        "authors": [
+            "mezz"
+        ],
+        "name": "Just Enough Items",
+        "version": "19.25.0.323"
+    },
+    {
+        "name": "Kotlin for Forge",
+        "version": "pp2cY80Q"
+    },
+    {
+        "authors": [
+            "LambdAurora"
+        ],
+        "name": "LambDynamicLights",
+        "version": "4.8.5+1.21.1"
+    },
+    {
+        "authors": [
+            "2No2Name, JellySquid"
+        ],
+        "name": "Lithium",
+        "version": "0.15.0+mc1.21.1"
+    },
+    {
+        "authors": [
+            "Jayzet"
+        ],
+        "name": "Lithosphere",
+        "version": "1.7"
+    },
+    {
+        "authors": [
+            "Apollo"
+        ],
+        "name": "Lithostitched",
+        "version": "1.5.0"
+    },
+    {
+        "authors": [
+            "IMB11 (mineblock11)"
+        ],
+        "name": "M.R.U",
+        "version": "1.0.19+LTS+1.21.1+neoforge"
+    },
+    {
+        "authors": [
+            "MCrowners"
+        ],
+        "name": "MCrowners Flashlight",
+        "version": "1.0"
+    },
+    {
+        "authors": [
+            "TexTrue, CagayakeGirls"
+        ],
+        "name": "MaFgLib",
+        "version": "0.4.1+mc1.21.1"
+    },
+    {
+        "authors": [
+            "Samlegamer"
+        ],
+        "name": "Macaw's - Oh the Biomes You'll Go",
+        "version": "1.21.1-1.2.1"
+    },
+    {
+        "authors": [
+            "Sketch Macaw & Peachy Macaw"
+        ],
+        "name": "Macaw's Bridges",
+        "version": "3.1.1"
+    },
+    {
+        "authors": [
+            "Sketch Macaw & Sketch Peachy"
+        ],
+        "name": "Macaw's Doors",
+        "version": "1.1.2"
+    },
+    {
+        "authors": [
+            "Sketch Macaw"
+        ],
+        "name": "Macaw's Furniture",
+        "version": "3.3.0"
+    },
+    {
+        "authors": [
+            "Sketch Macaw & Peachy Macaw"
+        ],
+        "name": "Macaw's Paths and Pavings",
+        "version": "1.1.1"
+    },
+    {
+        "authors": [
+            "Sketch Macaw & Sketch Peachy"
+        ],
+        "name": "Macaw's Roofs",
+        "version": "2.3.2"
+    },
+    {
+        "authors": [
+            "Sketch Macaw & Sketch Peachy"
+        ],
+        "name": "Macaw's Stairs and Balconies",
+        "version": "1.0.1"
+    },
+    {
+        "authors": [
+            "Sketch Macaw & Peachy Macaw"
+        ],
+        "name": "Macaw's Windows",
+        "version": "2.4.1"
+    },
+    {
+        "authors": [
+            "Luke100000, Man of Many Snails"
+        ],
+        "name": "Man of Many Planes",
+        "version": "0.2.1+1.21.1"
+    },
+    {
+        "authors": [
+            "TeamMidnightDust, Motschen"
+        ],
+        "name": "MidnightLib",
+        "version": "1.7.5"
+    },
+    {
+        "authors": [
+            "embeddedt"
+        ],
+        "name": "ModernFix",
+        "version": "5.24.3+mc1.21.1"
+    },
+    {
+        "authors": [
+            "Jab125"
+        ],
+        "name": "Modpack Update Checker",
+        "version": "0.15.6"
+    },
+    {
+        "authors": [
+            "Markus Bordihn"
+        ],
+        "name": "Mods Optimizer",
+        "version": "4.1.0"
+    },
+    {
+        "authors": [
+            "DVOA"
+        ],
+        "name": "More Sounds",
+        "version": "0.1.1-beta"
+    },
+    {
+        "authors": [
+            "Ivan Molodetskikh (YaLTeR)"
+        ],
+        "name": "Mouse Tweaks",
+        "version": "2.26.1"
+    },
+    {
+        "authors": [
+            "ChaosTheDude"
+        ],
+        "name": "Nature's Compass",
+        "version": "1.21.1-3.0.2-neoforge"
+    },
+    {
+        "authors": [
+            "Tigercrl"
+        ],
+        "name": "NoRealmsButton",
+        "version": "2.0.2"
+    },
+    {
+        "authors": [
+            "Steveplays28"
+        ],
+        "name": "Noisium",
+        "version": "2.3.0+mc1.21-1.21.1"
+    },
+    {
+        "authors": [
+            "tr7zw"
+        ],
+        "name": "NotEnoughAnimations",
+        "version": "1.10.6"
+    },
+    {
+        "authors": [
+            "OctoStudios"
+        ],
+        "name": "OctoLib",
+        "version": "0.6.0.4"
+    },
+    {
+        "authors": [
+            "Joseph T. McQuigg (JT122406), AOCAWOL, YaBoiChips, Corgi Taco"
+        ],
+        "name": "Oh The Biomes We've Gone",
+        "version": "2.4.8"
+    },
+    {
+        "authors": [
+            "Corgi Taco"
+        ],
+        "name": "Oh The Trees You'll Grow",
+        "version": "5.1.2"
+    },
+    {
+        "authors": [
+            "fzzyhmstrs"
+        ],
+        "name": "Particle Core",
+        "version": "0.2.6+1.21+neoforge"
+    },
+    {
+        "name": "Particular",
+        "version": "1.1.6"
+    },
+    {
+        "authors": [
+            "Fuzs"
+        ],
+        "name": "Pick Up Notifier",
+        "version": "21.1.1"
+    },
+    {
+        "authors": [
+            "Leclowndu93150, PigCart"
+        ],
+        "name": "Pretty Rain",
+        "version": "1.1.4"
+    },
+    {
+        "authors": [
+            "Fuzs"
+        ],
+        "name": "Puzzles Lib",
+        "version": "21.1.38"
+    },
+    {
+        "authors": [
+            "Toni"
+        ],
+        "name": "Redirected",
+        "version": "1.0.0"
+    },
+    {
+        "authors": [
+            "Countered"
+        ],
+        "name": "RoadWeaver",
+        "version": "1.0.2"
+    },
+    {
+        "authors": [
+            "MCTeamPotato\nAwei\n"
+        ],
+        "name": "RuOK Mod",
+        "version": "1.7.2fix"
+    },
+    {
+        "authors": [
+            "mortuusars"
+        ],
+        "name": "Scholar",
+        "version": "1.1.9"
+    },
+    {
+        "authors": [
+            "Redynine"
+        ],
+        "name": "Selfexpression",
+        "version": "2.22"
+    },
+    {
+        "authors": [
+            "Redynine"
+        ],
+        "name": "Selfexpression: Slim",
+        "version": "1.5"
+    },
+    {
+        "authors": [
+            "Adubbz, Forstride"
+        ],
+        "name": "Serene Seasons",
+        "version": "10.1.0.3"
+    },
+    {
+        "authors": [
+            "Gabou"
+        ],
+        "name": "Serene Seasons Plus",
+        "version": "4.0.8"
+    },
+    {
+        "authors": [
+            "MisterPeModder"
+        ],
+        "name": "ShulkerBoxTooltip",
+        "version": "5.1.7+1.21.1"
+    },
+    {
+        "authors": [
+            "HypherionMC"
+        ],
+        "name": "Simple RPC",
+        "version": "4.0.4"
+    },
+    {
+        "authors": [
+            "Max Henkel"
+        ],
+        "name": "Simple Voice Chat",
+        "version": "1.21.1-2.6.6"
+    },
+    {
+        "authors": [
+            "YaTangDragon, MangoJellyPudding"
+        ],
+        "name": "Simply Create Model｜简单动力",
+        "version": "1.0.1"
+    },
+    {
+        "name": "Sinytra Connector",
+        "version": "7046486"
+    },
+    {
+        "authors": [
+            "Someaddon"
+        ],
+        "name": "Smoothchunk mod",
+        "version": "4.1"
+    },
+    {
+        "authors": [
+            "JellySquid (jellysquid3), IMS212"
+        ],
+        "name": "Sodium",
+        "version": "0.6.13+mc1.21.1"
+    },
+    {
+        "authors": [
+            "Sonic Ether, vlad2305m, Max Henkel"
+        ],
+        "name": "Sound Physics Remastered",
+        "version": "1.21.1-1.5.1"
+    },
+    {
+        "authors": [
+            "IMB11"
+        ],
+        "name": "Sounds",
+        "version": "2.4.15+lts+1.21.1+neoforge"
+    },
+    {
+        "authors": [
+            "Texelsaur"
+        ],
+        "name": "Storage Drawers",
+        "version": "13.11.4"
+    },
+    {
+        "authors": [
+            "VesMaybeVesper"
+        ],
+        "name": "Substrate",
+        "version": "4.0"
+    },
+    {
+        "authors": [
+            "Motschen, TeamMidnightDust, lowercasebtw"
+        ],
+        "name": "Sword Blocking",
+        "version": "2.1.0"
+    },
+    {
+        "authors": [
+            "Apollo"
+        ],
+        "name": "Tectonic",
+        "version": "3.0.16"
+    },
+    {
+        "authors": [
+            "Adubbz"
+        ],
+        "name": "TerraBlender",
+        "version": "4.1.0.8"
+    },
+    {
+        "authors": [
+            "Stardust Labs"
+        ],
+        "name": "Terralith",
+        "version": "2.5.8"
+    },
+    {
+        "authors": [
+            "Mr.Toad"
+        ],
+        "name": "ToadLib",
+        "version": "1.3.2"
+    },
+    {
+        "authors": [
+            "Kubek and Biban_Auriu, Cristelknight999"
+        ],
+        "name": "Towns and Towers",
+        "version": "1.13.7"
+    },
+    {
+        "authors": [
+            "Sonnenlicht"
+        ],
+        "name": "Trajectory Estimation",
+        "version": "1.0.3.1"
+    },
+    {
+        "authors": [
+            "Tiviacz1337"
+        ],
+        "name": "Traveler's Backpack",
+        "version": "10.1.26"
+    },
+    {
+        "authors": [
+            "Nine"
+        ],
+        "name": "Traveler's Compass",
+        "version": "4.0.01"
+    },
+    {
+        "authors": [
+            "Grondag, Qsmium"
+        ],
+        "name": "True Darkness",
+        "version": "1.2.1"
+    },
+    {
+        "authors": [
+            "TexTrue, CagayakeGirls"
+        ],
+        "name": "Tweakerge",
+        "version": "0.4.1+mc1.21.1"
+    },
+    {
+        "authors": [
+            "Toni"
+        ],
+        "name": "TxniLib",
+        "version": "1.0.24"
+    },
+    {
+        "authors": [
+            "Mrbysco, ShyNieke"
+        ],
+        "name": "Underground Villages Mod",
+        "version": "4.0.3"
+    },
+    {
+        "authors": [
+            "Suel_ki, Okabintaro, ArtistMonster24"
+        ],
+        "name": "Untitled Duck Mod",
+        "version": "1.2.0"
+    },
+    {
+        "authors": [
+            "Jozufozu, PepperCode1"
+        ],
+        "name": "Vanillin",
+        "version": "1.1.3"
+    },
+    {
+        "authors": [
+            "NyakoFox"
+        ],
+        "name": "VanitySlots",
+        "version": "2.0.1"
+    },
+    {
+        "authors": [
+            "Rasa Novum"
+        ],
+        "name": "Via Romana",
+        "version": "2.0.1+1.21.1-neoforge"
+    },
+    {
+        "authors": [
+            "LimonBlaze"
+        ],
+        "name": "Visuality: Reforged",
+        "version": "2.1.0"
+    },
+    {
+        "name": "Wakes",
+        "version": "1.0.2"
+    },
+    {
+        "authors": [
+            "Verph"
+        ],
+        "name": "Waves",
+        "version": "1.6"
+    },
+    {
+        "authors": [
+            "tr7zw"
+        ],
+        "name": "WaveyCapes",
+        "version": "1.6.2"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "name": "Waystones",
+        "version": "21.1.23"
+    },
+    {
+        "authors": [
+            "Vortianski"
+        ],
+        "name": "Weavers Paradise",
+        "version": "1.2.2"
+    },
+    {
+        "authors": [
+            "WildfireRomeo"
+        ],
+        "name": "Wildfire's Female Gender Mod",
+        "version": "3.2.2"
+    },
+    {
+        "authors": [
+            "Jackbusters"
+        ],
+        "name": "Wooled Boots",
+        "version": "1.8"
+    },
+    {
+        "authors": [
+            "EngineHub"
+        ],
+        "name": "WorldEdit",
+        "version": "7.3.8+6939-7d32b45"
+    },
+    {
+        "authors": [
+            "1Foxy2"
+        ],
+        "name": "Xaero Train Map",
+        "version": "1.0.0"
+    },
+    {
+        "authors": [
+            "xaero96"
+        ],
+        "name": "Xaero's Minimap",
+        "version": "25.2.10"
+    },
+    {
+        "authors": [
+            "xaero96"
+        ],
+        "name": "Xaero's World Map",
+        "version": "1.39.12"
+    },
+    {
+        "authors": [
+            "rfresh2"
+        ],
+        "name": "XaeroPlus",
+        "version": "2.28.8"
+    },
+    {
+        "authors": [
+            "isXander"
+        ],
+        "name": "YetAnotherConfigLib",
+        "version": "3.8.0+1.21.1-neoforge"
+    },
+    {
+        "name": "connector-2.0.0-beta.10+1.21.1-full.jar.duplicate"
+    },
+    {
+        "authors": [
+            "eirmax, st0x0ef"
+        ],
+        "name": "elytraswapperplus",
+        "version": "1.0.0"
+    },
+    {
+        "authors": [
+            "Someaddon"
+        ],
+        "name": "fastasyncworldsave mod",
+        "version": "2.6"
+    },
+    {
+        "authors": [
+            "glisco, Blodhgarm, BasiqueEvangelist, Noaaan"
+        ],
+        "name": "oωo",
+        "version": "0.12.15.5-beta.1+1.21"
+    },
+    {
+        "authors": [
+            "The TCT"
+        ],
+        "name": "tctcore",
+        "version": "2.0"
+    },
+    {
+        "authors": [
+            "Reggarf"
+        ],
+        "name": "underground_village",
+        "version": "1.5.6"
+    },
+    {
+        "authors": [
+            "deirn, TehNut, ProfMobius"
+        ],
+        "name": "wthit",
+        "version": "12.7.0"
+    }
+]
